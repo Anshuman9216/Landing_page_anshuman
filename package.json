@@ -1,5 +1,5 @@
 {
-  "name": "orcish-landing-page",
+  "name": "Anshuman-landing-page",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -29,8 +29,13 @@
     "@types/node": "^22.13.14",
     "@types/react": "^19.0.12",
     "@types/react-dom": "^19.0.4",
-    "eslint": "^9.23.0",
+    "@typescript-eslint/eslint-plugin": "^8.32.0",
+    "@typescript-eslint/parser": "^8.32.0",
+    "eslint": "^9.26.0",
     "eslint-config-next": "15.2.4",
+    "eslint-config-prettier": "^10.1.2",
+    "eslint-plugin-prettier": "^5.4.0",
+    "prettier": "^3.5.3",
     "tailwindcss": "^4.0.17",
     "typescript": "^5.8.2"
   }
