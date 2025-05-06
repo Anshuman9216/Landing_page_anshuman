@@ -1,5 +1,5 @@
 {
-  "name": "Anshuman-landing-page",
+  "name": "anshuman-landing-page",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -38,5 +38,21 @@
     "prettier": "^3.5.3",
     "tailwindcss": "^4.0.17",
     "typescript": "^5.8.2"
-  }
+  },
+  "description": "This is a **responsive** and **customizable landing page** built using **Next.js**, **TypeScript**, and **Tailwind CSS**. It is designed to be part of my professional portfolio.",
+  "main": ".eslintrc.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anshuman9216/Landing_page_anshuman.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Anshuman9216/Landing_page_anshuman/issues"
+  },
+  "homepage": "https://github.com/Anshuman9216/Landing_page_anshuman#readme"
 }
